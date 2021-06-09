@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js","static/static.js"],"names":["console","log"],"mappings":"AAAAA,QAAAC,IAAA,iBCAAD,QAAAC,IAAA","file":"siddhu-minified.js","sourcesContent":["console.log('index changed');\r\n","console.log('static');\r\n"]}

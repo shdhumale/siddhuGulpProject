@@ -1,0 +1,22 @@
+@import url(./colors.css);
+
+@import url(./layout/header.css);
+@import url(./layout/main.css);
+
+:root {
+  
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10pt;  
+}
+
+body {
+  background-attachment: fixed;
+}
